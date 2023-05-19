@@ -1,0 +1,3 @@
+# Renesas RX65N Cloud kit AzureRTOS sample
+* This is simple sample to connect to Azure IoT Hub using AzureRTOS and Azure SDK. Target board is [RX65N cloud kit](https://www.renesas.com/us/en/products/microcontrollers-microprocessors/rx-32-bit-performance-efficiency-mcus/rx65n-cloud-kit-renesas-rx65n-cloud-kit). Please see [this document](https://github.com/TatsuyaOgawanx/rx65nck-azurertos-samples/blob/main/iot_sdk_rx65nck_gcc/r01an6455ej0102-rx-azure-rtos.pdf) how to use it in the detail.
+  * ![RX65N cloud kit](https://www.renesas.com/sites/default/files/cloudkit00a_0.jpg)
