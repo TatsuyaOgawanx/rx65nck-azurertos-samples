@@ -1,0 +1,11 @@
+.settings
+.metadata
+.vscode
+*.tmp
+.settings
+Debug
+HardwareDebug
+trash
+output
+*.bak
+*.rcpc
